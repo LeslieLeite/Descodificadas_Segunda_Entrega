@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+}
+
+h1 {
+  
+    background-color :#8265BF;
+    text-align: center;
+    text-transform: uppercase;
+    font-size : 30px;
+    color : #ffebcd;
+}
+
+div {
+   
+    display: inline-block;
+    border: 1px  solid black;
+    width: 200px;
+    height: 200px;
+   
+       
+}
+
+#red {
+    border: 5px  solid black;
+}
+#red:hover {
+    background-color: #59372A;
+    
+    
+}
+
+.red {
+    background-color: #ff0000;
+        
+}
+
+
+
+
+.blue {
+    background-color: #0000ff;
+    
+    
+}
+
+
+.green {
+    background-color: #008000;
+    
+    
+}
+
+
+
+.yellow {
+    background-color: yellow;
+}
+
+footer {
+
+    background-color: #8265BF;
+    padding: 2px;
+    text-align: center;
+    color : #ffebcd;
+    font-size: 20px;
+}
